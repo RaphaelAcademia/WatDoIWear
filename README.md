@@ -1,5 +1,5 @@
 # WatDoIWear -- WIP
-Extremely simple webapp that recommends users what they should wear based on their location. 
+WatDoIWear is an extremely simple webapp that recommends users what they should wear based on their location. 
 Built using Python, Flask, the IPStack API and the OpenWeatherMap API. I developed because I wanted this to play around with the OpenWeatherMap API and the IPStack API.
 
 **NOTE:** In order to compile, a config.json file is needed. config.json will hold the api keys needed for OpenWeatherMap and IPStack. The format of config.json must be: 

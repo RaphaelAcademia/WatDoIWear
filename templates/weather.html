@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block body %}
+    {% for weatherInfo in weatherInfo %}
+        <h1 class = "text-center" > You are currently in {{weatherInfo.city}} and the current temperature is {{weatherInfo.temp}}</h1>
+        <p class = "text-center"> You should probably wear {{weatherInfo.clothes}}</p>
+    {% endfor %}
+{% endblock %}

@@ -20,4 +20,4 @@ $ git push heroku master
 $ heroku open
 ```
 
-See the app in action!: https://shielded-scrubland-82220.herokuapp.com/
+See the app in action: https://shielded-scrubland-82220.herokuapp.com/

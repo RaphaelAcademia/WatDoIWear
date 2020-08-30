@@ -19,5 +19,3 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
-
-See the app in action: https://wat-do-i-wear.herokuapp.com/
